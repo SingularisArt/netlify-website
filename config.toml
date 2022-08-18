@@ -1,7 +1,7 @@
 baseURL = "https://singularisart.github.io"
 
 # theme
-theme = ["hugo-video", "LoveIt"]
+theme = "LoveIt"
 
 # website title
 title = "Hashem A. Damrah"
